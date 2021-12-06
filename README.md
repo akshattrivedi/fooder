@@ -36,12 +36,8 @@ If an order is going to take more than 2 hour 30 minutes to get delivered, it ge
 **Output -**
 ```
 Order 12 will get delivered in 57 minutes
-
 Order 21 will get delivered in 37 minutes
-
 Order 14 is denied because the restaurant cannot accommodate it.
-
 Order 32 will get delivered in 29.8 minutes
-
 Order 22 will get delivered in 70.8 minutes
 ```
